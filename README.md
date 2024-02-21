@@ -16,8 +16,7 @@ This Movie Recommendation System is designed to provide personalized movie recom
 - step: download the analysed data (or csv file) and store it in the folder name movie-files.
 - step3: cd movie-recommendation-system
 - Step 4: To run this : streamlit run .\1_🎬_Home.py .py
-
-4. Access the application in your browser at [http://localhost:8501](http://localhost:8501).
+- Access the application in your browser at [http://localhost:8501](http://localhost:8501).
 
 ## Usage
 
@@ -37,4 +36,4 @@ This Movie Recommendation System is designed to provide personalized movie recom
 - Special thank to https://www.themoviedb.org/ for providing the movie poster api.
 
 ## screenshot
-[!movie](https://github.com/ShivShah19/Movie-Recommendation-System/blob/main/image/movie.png)
+[!movie](https://github.com/ShivShah19/Movie-Recommendation-System/image/movie.png)
