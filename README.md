@@ -35,5 +35,8 @@ This Movie Recommendation System is designed to provide personalized movie recom
 - Special thanks to https://www.kaggle.com/ for providing the movie dataset.
 - Special thank to https://www.themoviedb.org/ for providing the movie poster api.
 
-## screenshot
-[!movie](https://github.com/ShivShah19/Movie-Recommendation-System/image/movie.png)
+
+## Screenshot
+
+![Movie Recommendation System](https://github.com/ShivShah19/Movie-Recommendation-System/blob/main/image/movie.png)
+
