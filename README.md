@@ -12,10 +12,10 @@ This Movie Recommendation System is designed to provide personalized movie recom
 
 ## Steps
 
-# Step1: First open and execute this Movie_py.ipynb
-# step: download the analysed data (or csv file) and store it in the folder name movie-files.
-# step3: cd movie-recommendation-system
-# Step 4: To run this : streamlit run .\1_🎬_Home.py .py
+- Step1: First open and execute this Movie_py.ipynb
+- step: download the analysed data (or csv file) and store it in the folder name movie-files.
+- step3: cd movie-recommendation-system
+- Step 4: To run this : streamlit run .\1_🎬_Home.py .py
 
 4. Access the application in your browser at [http://localhost:8501](http://localhost:8501).
 
@@ -35,3 +35,6 @@ This Movie Recommendation System is designed to provide personalized movie recom
 
 - Special thanks to https://www.kaggle.com/ for providing the movie dataset.
 - Special thank to https://www.themoviedb.org/ for providing the movie poster api.
+
+## screenshot
+[!movie](https://github.com/ShivShah19/Movie-Recommendation-System/blob/main/image/movie.png)
